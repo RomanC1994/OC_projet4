@@ -1052,3 +1052,7 @@ h4 {
     font-size: 22px;
     font-style: italic;
 }
+
+.focus-only:focus {
+    outline: 4px solid black !important;
+  }
